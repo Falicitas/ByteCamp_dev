@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -fPIC   -Wall -Wextra -Wsign-compare -Wshadow -Wwrite-strings -Wpointer-arith -Winit-self   -O3 -rdynamic CMakeFiles/iteration_benchmark.dir/iteration_benchmark.c.o -o iteration_benchmark  ../src/libroaring.a 

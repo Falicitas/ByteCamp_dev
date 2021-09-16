@@ -1,0 +1,35 @@
+.
+├── ad
+│   └── advertising.hpp
+├── build
+│   └── runit
+├── index
+│   ├── bitmap.cpp
+│   ├── Kth_Ad.cpp
+│   ├── Kth_Ad.h
+│   └── Main.hpp
+├── main
+│   ├── Ad_in.txt
+│   ├── a.out
+│   ├── main.cpp
+│   ├── read_data.hpp
+│   ├── read_data.hpp.gch
+│   ├── sub_data.hpp
+│   ├── sub_data.hpp.gch
+│   ├── test.cpp
+│   └── User_in.txt
+├── Makefile
+├── pb
+│   ├── ad.pb.cc
+│   ├── ad.pb.h
+│   ├── ad.proto
+│   ├── user.pb.cc
+│   ├── user.pb.h
+│   └── user.proto
+├── temp.txt
+├── user
+│   └── user.hpp
+└── util
+    └── CRoaring-master
+    
+109 directories, 2566 files

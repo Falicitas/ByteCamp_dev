@@ -1,0 +1,24 @@
+6
+10000
+2
+age IN 0 3
+state IN 0 NY
+20000
+2
+age IN 0 3
+gender IN 0 F
+30000
+3
+age IN 0 3
+gender IN 0 M
+state IN 1 CA
+40000
+2
+state IN 0 CA
+gender IN 0 M
+50000
+1
+age IN 0 3 4
+60000
+1
+state IN 1 CA NY

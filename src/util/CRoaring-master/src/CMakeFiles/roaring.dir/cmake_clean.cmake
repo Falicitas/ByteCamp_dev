@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/roaring.dir/array_util.c.o"
+  "CMakeFiles/roaring.dir/array_util.c.o.d"
+  "CMakeFiles/roaring.dir/bitset_util.c.o"
+  "CMakeFiles/roaring.dir/bitset_util.c.o.d"
+  "CMakeFiles/roaring.dir/containers/array.c.o"
+  "CMakeFiles/roaring.dir/containers/array.c.o.d"
+  "CMakeFiles/roaring.dir/containers/bitset.c.o"
+  "CMakeFiles/roaring.dir/containers/bitset.c.o.d"
+  "CMakeFiles/roaring.dir/containers/containers.c.o"
+  "CMakeFiles/roaring.dir/containers/containers.c.o.d"
+  "CMakeFiles/roaring.dir/containers/convert.c.o"
+  "CMakeFiles/roaring.dir/containers/convert.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_andnot.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_andnot.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_equal.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_equal.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_intersection.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_intersection.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_negation.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_negation.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_subset.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_subset.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_union.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_union.c.o.d"
+  "CMakeFiles/roaring.dir/containers/mixed_xor.c.o"
+  "CMakeFiles/roaring.dir/containers/mixed_xor.c.o.d"
+  "CMakeFiles/roaring.dir/containers/run.c.o"
+  "CMakeFiles/roaring.dir/containers/run.c.o.d"
+  "CMakeFiles/roaring.dir/roaring.c.o"
+  "CMakeFiles/roaring.dir/roaring.c.o.d"
+  "CMakeFiles/roaring.dir/roaring_array.c.o"
+  "CMakeFiles/roaring.dir/roaring_array.c.o.d"
+  "CMakeFiles/roaring.dir/roaring_priority_queue.c.o"
+  "CMakeFiles/roaring.dir/roaring_priority_queue.c.o.d"
+  "libroaring.a"
+  "libroaring.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/roaring.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -fPIC   -Wall -Wextra -Wsign-compare -Wshadow -Wwrite-strings -Wpointer-arith -Winit-self   -O3 -rdynamic CMakeFiles/robust_deserialization_unit.dir/robust_deserialization_unit.c.o -o robust_deserialization_unit  ../src/libroaring.a vendor/cmocka/libcmocka.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -fPIC   -Wall -Wextra -Wsign-compare -Wshadow -Wwrite-strings -Wpointer-arith -Winit-self   -O3 -rdynamic CMakeFiles/bitset_container_unit.dir/bitset_container_unit.c.o -o bitset_container_unit  ../src/libroaring.a vendor/cmocka/libcmocka.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -fPIC   -Wall -Wextra -Wsign-compare -Wshadow -Wwrite-strings -Wpointer-arith -Winit-self   -O3 -rdynamic CMakeFiles/c_example1.dir/c_example1.c.o -o c_example1  ../src/libroaring.a vendor/cmocka/libcmocka.a 

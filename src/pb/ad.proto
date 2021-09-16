@@ -1,0 +1,25 @@
+enum AdTargetOperator {
+    IN = 1;
+    GT = 2;
+    LT = 3;
+    BETWEEN = 4;
+    DistanceLT = 5;
+    GTE = 6;
+    LTE = 7;
+}
+
+message AdTargetItem {
+    required string field_name = 1;
+    repeated int64 value = 2;
+    required bool reverse = 3;
+    required AdTargetOperator op = 4;
+}
+
+message Ad {
+    required int64 aid = 1;
+    repeated AdTargetItem target_item = 2;
+}
+
+message AdList {
+    repeated Ad ad = 1;
+}

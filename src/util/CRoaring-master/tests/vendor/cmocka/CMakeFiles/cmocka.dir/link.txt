@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcmocka.a CMakeFiles/cmocka.dir/cmocka.c.o
+/usr/bin/ranlib libcmocka.a

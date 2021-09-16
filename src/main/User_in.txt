@@ -1,0 +1,6 @@
+1
+松松
+3
+age = 3
+state = CA
+gender = M

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -fPIC   -Wall -Wextra -Wsign-compare -Wshadow -Wwrite-strings -Wpointer-arith -Winit-self   -O3 -rdynamic CMakeFiles/cpp_unit.dir/cpp_unit.cpp.o -o cpp_unit  ../src/libroaring.a vendor/cmocka/libcmocka.a 
