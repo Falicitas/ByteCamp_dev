@@ -3,10 +3,13 @@ using Boolean Indexing and Bitmap scheme. Then we evaluate our method on the dat
 
 ### Developer
 
-Tingzhang Cai:https://github.com/Falicitas
-Dong Chen:https://blossomin.github.io/
-Chongbin Zhao:
-Jian Xiao:
+> Tingzhang Cai:https://github.com/Falicitas
+>
+> Dong Chen:https://blossomin.github.io/
+>
+> Chongbin Zhao:
+> 
+> Jian Xiao:https://github.com/dajianer
 
 ### Compile 
 
